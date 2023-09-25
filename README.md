@@ -33,7 +33,7 @@ stopTimer(): Stops the timer by clearing the interval.
 resetTimer(): Resets the timer by stopping it and setting the minutes and seconds back to 0.
 formatTime(minutes, seconds): Formats the time as "MM:SS" and returns the formatted string.
 padZero(value): Pads a single-digit value with a leading zero if necessary.
-Feel free to modify and enhance the code to suit your needs.
+
 
 License
 This project is licensed under the MIT License.
